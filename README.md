@@ -43,7 +43,7 @@ pip install groq
    ```
 2. Run the Python script:
    ```bash
-   python chat_completion.py
+   python app.py
    ```
 
 ---
